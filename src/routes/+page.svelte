@@ -1,7 +1,7 @@
 <script>
 	import { Card, Button } from 'flowbite-svelte';
-	import MarsHero from '$lib/MarsHero.svelte';
-	import ImageModal from '$lib/ImageModal.svelte';
+	import MarsHero from '$lib/components/MarsHero.svelte';
+	import ImageModal from '$lib/components/ImageModal.svelte';
 
 	let showImageModal = false;
 </script>
