@@ -12,9 +12,3 @@ VITE_NASA_API_KEY=your_nasa_api_key
 ```bash
 npm run dev
 ```
-
-## Building
-
-```
-
-```
